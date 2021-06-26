@@ -16,3 +16,14 @@ On the default_popup  //Here the popup.html which will be the file that Google w
 
 
 
+||
+Then you edit the html
+|| 
+Finally You go to chrome://extensions/ Where you touch Load unpacked extension or in spanish Cargar Descomprimida
+Here you select the folder where is you extension and then you can see it on the rigth corner like this.
+![exaple](/three.jpeg)
+
+
+I hope you found it useFull.
+
+
