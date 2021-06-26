@@ -20,5 +20,6 @@ Once you have this files inside of the manifest.json You have to do the followin
     "permissions":["activeTab"]
 }
 
+![manifest](/second.jpeg)
 
 
