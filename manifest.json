@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 2,
+    "name": "Pomodoro Timer",
+    "description": "Timer for productivity",
+    "version":"1.0.0",
+    "icons": {"128": "icons8-hourglass-90.png"},
+    "browser_action": {
+        "default_icon": "icons8-hourglass-90.png",
+        "default_popup":"popup.html"
+    },
+    "permissions":["activeTab"]
+}
